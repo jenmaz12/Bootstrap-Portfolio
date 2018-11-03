@@ -18,4 +18,8 @@ html, body {
         height: auto;
     }
 
+    .nav {
+        padding-top: 0;
+    }
+
 }
